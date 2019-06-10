@@ -1,0 +1,4 @@
+#!/bin/bash
+kotlinc inline-functions.kt -d inline-functions.jar -include-runtime
+kotlinc random-jacks-coin-flipper.kt -d random-jacks-coin-flipper.jar -include-runtime
+kotlinc types-min-max.kt -d types-min-max.jar -include-runtime
