@@ -1,8 +1,8 @@
 
 fun main() {
-	range(Int)
+    range(Int)
 }
 
 fun range(x: Any) {
-	println(x.MAX_VALUE)
+    println(x.MAX_VALUE)
 }
